@@ -8,3 +8,4 @@ ipykernel
 mlflow
 optuna
 dvc
+imblearn
